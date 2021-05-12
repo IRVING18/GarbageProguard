@@ -1,0 +1,3 @@
+include ':GarbageProguard'
+include ':app'
+rootProject.name = "GarbageProguardCode"
